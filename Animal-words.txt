@@ -8,7 +8,6 @@ Antelope
 Ape
 Armadillo
 Ass
-Donkey
 Baboon
 Badger
 Barracuda
